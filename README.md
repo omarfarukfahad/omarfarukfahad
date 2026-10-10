@@ -129,9 +129,7 @@ My usual development process:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarfarukfahad&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="75%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarfarukfahad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Profile Trophies"/>
-</p>
+
 
 ---
 
